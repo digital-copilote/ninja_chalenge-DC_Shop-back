@@ -1,0 +1,27 @@
+{
+  "name": "ninja_chalenge-dc_shop-back",
+  "version": "1.0.0",
+  "description": "e-shop t-shirt",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digital-copilote/ninja_chalenge-DC_Shop-back.git"
+  },
+  "author": "Aurelien Brethes |  Marie Lainé |  Jimmy Ganci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digital-copilote/ninja_chalenge-DC_Shop-back/issues"
+  },
+  "homepage": "https://github.com/digital-copilote/ninja_chalenge-DC_Shop-back#readme",
+  "dependencies": {
+    "argon2": "^0.28.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
